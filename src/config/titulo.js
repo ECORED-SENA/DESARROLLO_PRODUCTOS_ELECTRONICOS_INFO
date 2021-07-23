@@ -1,1 +1,1 @@
-module.exports = 'Nombre del componente formativo'
+module.exports = 'Tecnología en Desarrollo de productos electrónicos'
