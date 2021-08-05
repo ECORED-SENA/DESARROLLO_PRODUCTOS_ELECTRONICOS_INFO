@@ -23,7 +23,7 @@ section
                 p.banner-principal__datos__item__texto 3984 Horas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
-                p.banner-principal__datos__item__texto 21 Meses
+                p.banner-principal__datos__item__texto 27 Meses
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto Virtual
